@@ -14,6 +14,9 @@
 - [**qViewer**](#)  
   *Inspired by real exam interfaces, this project lets you view and attempt assignments in a way that feels just like the real thing. Perfect for practicing under authentic conditions!*
 
+- [**lumora-game**](#)  
+  *This is a zelda styled game created using pygame with player controlled using hand tracker*
+
 ## 💡 About Me
 
 I love diving into code to bring my ideas to life, especially when it means exploring something totally new or unexpected. Whether it’s solving a tricky problem or just tinkering with the latest tech, I’m always up for the next adventure in programming!
