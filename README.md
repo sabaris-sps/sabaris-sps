@@ -8,11 +8,14 @@
 
 ## 🚀 Featured Projects
 
-- [**qStorer**](#)  
+- [**qStorer**](https://qstorer.netlify.app)  
   *A handy tool I built to organize and store questions for easy review. It helps make exam prep smarter and more efficient—because digital learning should work for you!*
 
-- [**qViewer**](#)  
+- [**qViewer**](https://qviewer.netlify.app)  
   *Inspired by real exam interfaces, this project lets you view and attempt assignments in a way that feels just like the real thing. Perfect for practicing under authentic conditions!*
+
+- [**qGriller**](https://qgriller.netlify.app)  
+  *A productivity tool that helps you never forget stuff. Specially useful for inorganic chemistry. You can create a test on any way which contains randomly picked question!*
 
 - [**lumora-game**](#)  
   *This is a zelda styled game created using pygame with player controlled using hand tracker*
