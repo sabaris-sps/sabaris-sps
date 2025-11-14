@@ -27,3 +27,5 @@ I love diving into code to bring my ideas to life, especially when it means expl
 ---
 
 Thanks for stopping by! 🚀
+
+Visit [Google](https://www.google.com)
