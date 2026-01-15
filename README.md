@@ -18,4 +18,7 @@
 - [**lumora-game**](#)  
   *This is a zelda styled game created using pygame with player inputs controlled using hand movement*
 
+- [**web-simulations**](https://sabaris-sps.github.io/web-simulations)
+  *This are some cool science simulations that I enjoyed making*
+
 ---
