@@ -9,7 +9,7 @@
 - [**qStorer**](https://qstorer.netlify.app)  
   *A tool I built to organize and store questions for easy review.*
 
-- [**qViewer**](https://sabaris-sps.github.io/qviewer)  
+- [**qViewer**](https://qviewer.netlify.app)  
   *This lets you view and attempt assignments organized*
 
 - [**qGriller**](https://qgriller.netlify.app)  
