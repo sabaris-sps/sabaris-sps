@@ -15,7 +15,7 @@
 - [**qGriller**](https://qgriller.netlify.app)  
   *A tool that helps you never forget stuff. Specially useful for inorganic chemistry. You can create a test on any way which contains randomly picked question from the huge set!*
 
-- [**clean-math**](https://clean-math.netlify.app)
+- [**clean-math**](https://clean-math.netlify.app)  
   *A notes app where you can type html, md, math, chem easily - with a stackexchange like ui. Just created it because I loved typing math*
 
 - [**lumora-game**](#)  
